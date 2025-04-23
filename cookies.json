@@ -1,0 +1,62 @@
+[
+  {
+    "name": "__cf_bm",
+    "value": "bNSUqUVk75FPh4mWIoIs.t9H4rrSaeDCNCekuyxiets-1745425511-1.0.1.1-XhG0uIublpzKWPvBQdOf1ny9mXIGGy.0y_Lwroela8k9p7rzDe3eISfVP42vTplMRF7gfgPeEQbTbmBwx7YmSAqrN3el6kXpiv9JSOiRcq0",
+    "domain": ".truthsocial.com",
+    "path": "/",
+    "expires": 1745427309.905454,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__cflb",
+    "value": "0H28vTPqhjwKvpvovPVDebuz7TcmnBpbLYoTyrSgjFM",
+    "domain": "truthsocial.com",
+    "path": "/",
+    "expires": 1745439909.906083,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "RKzFFBWzzZ39RSLvHK6UUEVn.ZRZGmwUt2rPYF5NizQ-1745425511177-0.0.1.1-604800000",
+    "domain": ".truthsocial.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "mp_15c0cd079bcfa80cd935f3a1b8606b48_mixpanel",
+    "value": "%7B%22distinct_id%22%3A%20%221966377b2b639e-088d54fc3fde54-26011d51-e1000-1966377b2b7b5f%22%2C%22%24device_id%22%3A%20%221966377b2b639e-088d54fc3fde54-26011d51-e1000-1966377b2b7b5f%22%2C%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%7D",
+    "domain": ".truthsocial.com",
+    "path": "/",
+    "expires": 1776961513,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_tq_id.TV-5427368145-1.4081",
+    "value": "920611f30bbf6afa.1745425512.0.1745425512..",
+    "domain": "truthsocial.com",
+    "path": "/",
+    "expires": 1779985511.568408,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_mastodon_session",
+    "value": "ZfGQPg34hbjwGvkYu5nEG9AH%2B7snEjK9UuE1trw0dQr4Y%2FtyyT1L0LbfHLg2hSkFFej%2BbWjk7e0i6tcPDX6PFOh0R3nzoZxInsE1ATJyRmnmFATHYmW3O5q8wRUQqUOnaC7oN6jcNT%2BDNhtaFAEbhyt%2F4nSJ4VxwC4TA0A2Y7YHuWmoMtvwrvusbjxe59w9Sk%2FAR8VlOUTeQSSFZ%2FoCOmt9ThmIBkq0uFa5XYNOlwFDLkgT6I3QEqCty%2Flpb--lEqQscG04GwhEgon--k6Lh0N3gDyFTQaGb8OZAAw%3D%3D",
+    "domain": "truthsocial.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

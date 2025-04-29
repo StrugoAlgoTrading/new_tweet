@@ -18,4 +18,8 @@ idea/
 *.log
 
 # Secrets
+.env
+/.env
 run.bat
+
+

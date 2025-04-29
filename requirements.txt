@@ -1,2 +1,6 @@
 playwright
 playwright_stealth
+requests
+pyyaml
+pydantic
+dotenv

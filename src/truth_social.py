@@ -30,7 +30,7 @@ class TruthHandler:
 
     def notify_new_post(self, tweet_time):
         try:
-            response = requests.post(SECRETS.PUSH_URL, json={"event": "Trump Tweet", "ticker": "tqqq", "time": tweet_time})
+            response = requests.post(SECRETS.PUSH_URL, json={"event_type": "Trump Tweet", "ticker": "tqqq", "time": tweet_time})
             print(response.status_code)
         except Exception as e:
             print("❌ שגיאה בשליחה ל-API:", e)
